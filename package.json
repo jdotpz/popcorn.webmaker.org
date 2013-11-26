@@ -125,7 +125,7 @@
   },
   "scripts": {
     "test": "grunt",
-    "postinstall": "bower install"
+    "postinstall": "bower install --allow-root"
   },
   "license": "MIT",
   "engines": {
